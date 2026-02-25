@@ -36,11 +36,11 @@
 ## 📌 GitHub Badges
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/dattgod?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/dattgod?label=Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/DattGoswami745?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/DattGoswami745?label=Stars&style=for-the-badge"/>
 </p>
 
 ---
 
 ✨ *“Code today, build tomorrow.”*  
-⭐ Follow me: https://github.com/dattgod
+⭐ Follow me: https://github.com/DattGoswami745
